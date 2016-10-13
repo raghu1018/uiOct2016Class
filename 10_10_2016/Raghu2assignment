@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Raghu</title>
+    </head>
+    <body>
+       <section>
+         <header>
+            <h1>I'M HEADER</h1>
+         </header>
+           <section>
+            <form action="action_page.php">
+               <input>
+                <input>
+                <input>
+           </form>
+           </section>
+
+       </section>
+        <footer>
+            <h3>I'M FOOTER</h3>
+        </footer>
+</body>
+</html>
